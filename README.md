@@ -24,9 +24,6 @@ A fully functional e-commerce application built with Flutter.
 - Adding from favourite screen to cart screen directly
 
 
-##  Screenshots
-<img src="screenshots/home.png" width="250">
-<img src="screenshots/search.png" width="250">
 
 ##  Tech Stack
 - Flutter
