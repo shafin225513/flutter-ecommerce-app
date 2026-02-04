@@ -1,16 +1,38 @@
-# e_commerce
+# Flutter E-Commerce App 
 
-A new Flutter project.
+A fully functional e-commerce application built with Flutter.
 
-## Getting Started
+##  Features
+- Product listing
+- Real-time search
+- Clean UI
+- Responsive design
+- Web support
+- Firebase Auth Sign-in & Sign-up
+- Firestore
+- Payment checkout flow (mock)
+- Product description on clicking
+- Carousel slider
+- Used Screenutil
+- Seperate category of products
+- Bottom navigation bar with Cart screen, Favourite screen and User profile screen
 
-This project is a starting point for a Flutter application.
+  
+## Features can be implemented later
+- User profile details screen
+- Uploading product from user (I used Firebase here where storage is not free, so this feature is not currently implemented)
+- Adding from favourite screen to cart screen directly
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+##  Screenshots
+<img src="screenshots/home.png" width="250">
+<img src="screenshots/search.png" width="250">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##  Tech Stack
+- Flutter
+- Dart
+
+##  How to Run
+```bash
+flutter pub get
+flutter run
