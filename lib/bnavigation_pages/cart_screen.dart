@@ -91,7 +91,7 @@ Widget build(BuildContext context) {
                 },
               ),
             ),
-            CartCheckoutBar(context, cartItems), // now cartItems is defined here
+            CartCheckoutBar(context, cartItems), 
           ],
         );
       },
